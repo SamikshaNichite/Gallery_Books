@@ -1,0 +1,121 @@
+/* ================= Header ================= */
+.header {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  padding: 20px 0;
+  background-color: #1e1e1e;
+  color: white;
+  margin: 0;
+}
+
+/* ================= Main Container ================= */
+.Main {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 columns desktop */
+  gap: 20px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* ================= Book Card ================= */
+.book-card {
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border 0.3s ease;
+  text-align: center;
+}
+
+/* Hover blue effect */
+.book-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 20px rgba(0, 123, 255, 0.4);
+  border: 2px solid #007bff;
+}
+
+/* Book Image */
+.book-img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Book Info */
+.book-info {
+  padding: 15px;
+}
+
+.book-info p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.book-info strong {
+  color: #000;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+/* Text color on hover */
+.book-card:hover .book-info p,
+.book-card:hover .book-info strong {
+  color: #007bff;
+}
+
+/* ================= Responsive ================= */
+
+/* Large laptops */
+@media screen and (max-width: 1200px) {
+  .Main {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* Tablets */
+@media screen and (max-width: 1024px) {
+  .Main {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .book-img {
+    height: 250px;
+  }
+}
+
+/* Small tablets */
+@media screen and (max-width: 768px) {
+  .Main {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .book-img {
+    height: 220px;
+  }
+}
+
+/* Mobile */
+@media screen and (max-width: 480px) {
+  .Main {
+    grid-template-columns: 1fr;
+  }
+
+  .header {
+    font-size: 28px;
+  }
+
+  .book-img {
+    height: 200px;
+  }
+
+  .book-info p {
+    font-size: 13px;
+  }
+}

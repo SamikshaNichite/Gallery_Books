@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "bookName": "Chhatrapati Shivaji Maharaj and His Times",
+    "author": "Jadunath Sarkar",
+    "published": "1919",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/91ccY0GfEvL._AC_UL600_SR600,600_.jpg"
+  },
+  {
+    "id": 2,
+    "bookName": "Shivaji: The Great Maratha",
+    "author": "Ranjit Desai",
+    "published": "1968",
+    "image": "https://sahyadribooks.com/wp-content/uploads/2023/02/Raja-Shivchhatrapati-220x220.jpg"
+  },
+  {
+    "id": 3,
+    "bookName": "Life of Mahatma Gandhi",
+    "author": "Louis Fischer",
+    "published": "1950",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRk9Zo3tBIxlCe-GU4yvI837Qve-T5JSXjw&s"
+  },
+  {
+    "id": 4,
+    "bookName": "My Experiments with Truth",
+    "author": "Mahatma Gandhi",
+    "published": "1927",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1630508191i/58905550.jpg"
+  },
+  {
+    "id": 5,
+    "bookName": "Discovery of India",
+    "author": "Jawaharlal Nehru",
+    "published": "1946",
+    "image": "https://m.media-amazon.com/images/I/61VDEUAgosL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 6,
+    "bookName": "India After Gandhi",
+    "author": "Ramachandra Guha",
+    "published": "2007",
+    "image": "https://m.media-amazon.com/images/I/71jfeRhTumL.jpg"
+  },
+  {
+    "id": 7,
+    "bookName": "The Marathas",
+    "author": "Stewart Gordon",
+    "published": "1993",
+    "image": "https://indiaclub.com/cdn/shop/products/17092_7b0b2c99-95de-474b-81a8-8bf24d6687a0.jpg?v=1625516107"
+  },
+  {
+    "id": 8,
+    "bookName": "Bharat Ek Khoj",
+    "author": "Jawaharlal Nehru",
+    "published": "1946",
+    "image": "https://padhegaindia.in/wp-content/uploads/2025/01/9780143473442.webp"
+  },
+  {
+    "id": 9,
+    "bookName": "Sambhaji",
+    "author": "Vishwas Patil",
+    "published": "2013",
+    "image": "https://m.media-amazon.com/images/I/41fg6ow0YsL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 10,
+    "bookName": "Panipat",
+    "author": "Vishwas Patil",
+    "published": "1988",
+    "image": "https://m.media-amazon.com/images/I/81gY3-qrzmL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "bookName": "The Story of My Life",
+    "author": "Dr. B. R. Ambedkar",
+    "published": "1936",
+    "image": "https://www.forwardpress.in/wp-content/uploads/2017/02/Ambedkar-1.jpg"
+  },
+  {
+    "id": 12,
+    "bookName": "Freedom at Midnight",
+    "author": "Larry Collins & Dominique Lapierre",
+    "published": "1975",
+    "image": "https://m.media-amazon.com/images/I/91tDbqeySSL.jpg"
+  },
+  {
+    "id": 13,
+    "bookName": "Chhatrapati Shahu Maharaj",
+    "author": "Dr. Jaysingrao Pawar",
+    "published": "2010",
+    "image": "https://images.saatchiart.com/saatchi/1236131/art/12294751/11356947-HMSHWEHC-7.jpg"
+  },
+  {
+    "id": 14,
+    "bookName": "Maharani Tararani",
+    "author": "Dr. Jaysingrao Pawar",
+    "published": "2012",
+    "image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d379ff5416114ce0979dcc9bbb54a5ab.png"
+  },
+  {
+    "id": 15,
+    "bookName": "Peshwa Bajirao I",
+    "author": "Uday S. Kulkarni",
+    "published": "2008",
+    "image": "https://images.mid-day.com/images/images/2016/apr/27-bajirao-kalaghoda.jpg"
+  }
+]
